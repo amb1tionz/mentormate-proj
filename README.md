@@ -1,7 +1,7 @@
 # Green vs. Red
 Small task from MentorMate
 
-###Description
+### Description
 Small game, played on a 2D grid, which takes input from the console (prompt in my case, using JS) and printing the result.
 
 ### Technologies
